@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() 
+{
+printf("asdasdasd\n asdasdasd\n  Hello to MMS C Camp \n");
+printf(
+return 0;
+}

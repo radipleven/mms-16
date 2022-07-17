@@ -1,0 +1,10 @@
+{
+printf( "asdasdasd\n asdasdasd\n  Hello to MMS C Camp \n");
+printf( " asd asd asd asd\n asdasdasd\n asd");
+return 0;
+}
+int main() //row6 
+{//row7
+printf( "asdasdasd\n asdasdasd\n  Hello to MMS C Camp \n");//row6
+printf( " asd asd asd asd\n asdasdasd\n asd");//row9
+return 0;//row10
