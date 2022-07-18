@@ -1,0 +1,19 @@
+﻿Task 3 – Radostin Ivanov radipleven@abv.bg
+
+1.)
+htop
+
+2.)
+mkdir MMS C Camp
+cp *.c  /home/mms/Radostin/MMS C Camp
+rm -rf [0-9]*
+
+3.)
+rwxrw-r-- → chmod 764 testfile
+
+4.)wc *c -l  > linesCount
+
+5.)
+find . -type f -name "*.c" | xargs -I {} cat {} |wc -l >  rowsOfCode
+find . -type f -name "*.c" |wc -l > numberofcfiles
+	
