@@ -1,0 +1,4 @@
+find *.h
+sudo grep -R -H "main()" /home/mms | wc -l
+grep -E "(0|/+359)8[789][0-9]{7}"
+

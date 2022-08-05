@@ -1,0 +1,19 @@
+﻿File commands
+
+FILE* fopen(char* filename, char* mode)
+mode “r” opens file for reading
+mode “r+” opens the file for read/write
+mode “w” rewrite
+mode “w+” same as “w” but we can read as well
+mode “a” stream is positioned at the end of the file
+mode “a+” read/write, stream is positioned at the end of the file
+
+man fopen has all the answers
+
+int fputc (int c, FILE* file) → returns and int which is the charcode of the symbol that has just been 					  written
+int fputs(const char* s, FILE* file) → returns int, positive number if writing was a success and EOF if 						   writing was unsuccesful
+char* fgets(char str*,int size, FILE* f)
+
+int fclose (FILE* f) → closes the file and returns 0 if successufl and EOF if unsuccesful
+
+

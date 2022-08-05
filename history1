@@ -1,0 +1,1000 @@
+ 1058  cd tests
+ 1059  ls
+ 1060  cd 2
+ 1061  mkdir alexandar
+ 1062  ls
+ 1063  cd alexandar
+ 1064  ls
+ 1065  cp -r /home/mms/Desktop/Alexandar/t .
+ 1066  ls
+ 1067  cd t
+ 1068  ls
+ 1069  cd testWeek4
+ 1070  ls
+ 1071  git pull
+ 1072  git add
+ 1073  git commit
+ 1074  git status
+ 1075  cd ..
+ 1076  git add .
+ 1077  git commit
+ 1078  git commit -m "comited test"
+ 1079  git push
+ 1080  git pull
+ 1081  git push
+ 1082  git status
+ 1083  git push
+ 1084  git pull
+ 1085  git push
+ 1086  git status
+ 1087  ls
+ 1088  cd alexandar
+ 1089  ls
+ 1090  cd t
+ 1091  ls
+ 1092  cd testWeek4
+ 1093  ls
+ 1094  make clean
+ 1095  cd ..
+ 1096  cd 1
+ 1097  ls
+ 1098  cd RESULTS
+ 1099  cat RESULTS
+ 1100  cd playground
+ 1101  ls
+ 1102  cd starcamp_v7
+ 1103  ls
+ 1104  cd tests
+ 1105  ls
+ 1106  cd final
+ 1107  ls
+ 1108  cat final
+ 1109  cd ..
+ 1110  cd starcamp_v6
+ 1111  cd tests
+ 1112  ls
+ 1113  cd final
+ 1114  ls
+ 1115  cat final
+ 1116  cd ..
+ 1117  cd starcamp_v8
+ 1118  cd tests
+ 1119  cd 2
+ 1120  cat RESULTS
+ 1121  cat RESULT
+ 1122  ls
+ 1123  cd ..
+ 1124  cd 1
+ 1125  cat RESULT
+ 1126  cat RESULTs
+ 1127  cat RESULTS
+ 1128  cd playground
+ 1129  cd starcamp_v8
+ 1130  ls
+ 1131  cd tests
+ 1132  ls
+ 1133  cd 2
+ 1134  ls
+ 1135  git pull
+ 1136  ls
+ 1137  cd alexandar
+ 1138  ls
+ 1139  cd t
+ 1140  ls
+ 1141  cd testWeek4
+ 1142  ls
+ 1143  cd ..
+ 1144  ls
+ 1145  cd work
+ 1146  cd ..
+ 1147  cd hw
+ 1148  ls
+ 1149  cd tasks
+ 1150  ls
+ 1151  cat tasks-w4.txt
+ 1152  git pull
+ 1153  cd ..
+ 1154  ls
+ 1155  cd tests
+ 1156  cd 2
+ 1157  ls
+ 1158  cat RESULTS
+ 1159  cd ..
+ 1160  cd Desktop/Alexandar
+ 1161  cc hw4task2.c
+ 1162  ls
+ 1163  cc hw4task2.c
+ 1164  ./a.out
+ 1165  cc hw4task2.c
+ 1166  ./a.out
+ 1167  cc hw4task2.c
+ 1168  ./a.out
+ 1169  cc hw4task3.c
+ 1170  ./a.out
+ 1171  cc hw4task3.c
+ 1172  ./a.out
+ 1173  cc hw4task3.c
+ 1174  ./a.out
+ 1175  cc hw4task3.c
+ 1176  ./a.out
+ 1177  cc hw4task3.c
+ 1178  ./a.out
+ 1179  cc hw4task3.c
+ 1180  ./a.out
+ 1181  cc hw4task3.c
+ 1182  ./a.out
+ 1183  cc hw4task3.c
+ 1184  ./a.out
+ 1185  cc hw4task3.c
+ 1186  ./a.out
+ 1187  cc hw4task3.c
+ 1188  ./a.out
+ 1189  cc hw4task3.c
+ 1190  ./a.out
+ 1191  cc hw4task3.c
+ 1192  ./a.out
+ 1193  cc hw4task3.c
+ 1194  ./a.out
+ 1195  cc hw4task3.c
+ 1196  ./a.out
+ 1197  cc hw4task3.c
+ 1198  ./a.out
+ 1199  cc hw4task3.c
+ 1200  ./a.out
+ 1201  cc hw4task3.c
+ 1202  ./a.out
+ 1203  cc hw4task3.c
+ 1204  ./a.out
+ 1205  cc hw4task3.c
+ 1206  ./a.out
+ 1207  cc hw4task3.c
+ 1208  ./a.out
+ 1209  cc hw4task3.c
+ 1210  ./a.out
+ 1211  cc hw4task3.c
+ 1212  ./a.out
+ 1213  cc hw4task3.c
+ 1214  ./a.out
+ 1215  cc hw4task3.c
+ 1216  ./a.out
+ 1217  cc hw4task3.c
+ 1218  ./a.out
+ 1219  cc hw4task3.c
+ 1220  ./a.out
+ 1221  cc hw4task3.c
+ 1222  ./a.out
+ 1223  cc hw4task3.c
+ 1224  ./a.out
+ 1225  cc hw4task3.c
+ 1226  ./a.out
+ 1227  cc hw4task3.c
+ 1228  ./a.out
+ 1229  cc hw4task3.c
+ 1230  ./a.out
+ 1231  cc hw4task3.c
+ 1232  ./a.out
+ 1233  cc hw4task3.c
+ 1234  ./a.out
+ 1235  cc hw4task3.c
+ 1236  ./a.out
+ 1237  cc hw4task3.c
+ 1238  ./a.out
+ 1239  cc hw4task3.c
+ 1240  ./a.out
+ 1241  cc hw4task3.c
+ 1242  ./a.out
+ 1243  cc hw4task3.c
+ 1244  ./a.out
+ 1245  cc hw4task3.c
+ 1246  ./a.out
+ 1247  cc hw4task3.c
+ 1248  ./a.out
+ 1249  cc hw4task3.c
+ 1250  ./a.out
+ 1251  cc hw4task3.c
+ 1252  ./a.out
+ 1253  cc hw4task3.c
+ 1254  ./a.out
+ 1255  cc hw4task3.c
+ 1256  ./a.out
+ 1257  cc hw4task3.c
+ 1258  ./a.out
+ 1259  cc hw4task3.c
+ 1260  cc hw4task3.c
+ 1261  ./a.out
+ 1262  cc hw4task3.c
+ 1263  ./a.out
+ 1264  cc hw4task3.c
+ 1265  ./a.out
+ 1266  cc hw4task3.c
+ 1267  ./a.out
+ 1268  cc hw4task3.c
+ 1269  ./a.out
+ 1270  cc hw4task3.c
+ 1271  ./a.out
+ 1272  cc hw4task3.c
+ 1273  ./a.out
+ 1274  cc hw4task3.c
+ 1275  ./a.out
+ 1276  cd playground/starcamp_v8
+ 1277  git pull
+ 1278  ls
+ 1279  cd hw
+ 1280  ls
+ 1281  cd tasks
+ 1282  ls
+ 1283  cat tasks-w4.txt
+ 1284  cd ..
+ 1285  ls
+ 1286  cd lect
+ 1287  ls
+ 1288  cat 1212
+ 1289  cd 1212
+ 1290  ls
+ 1291  cat dispatch.c
+ 1292  cat Makefile
+ 1293  git pull
+ 1294  cd ..
+ 1295  ls
+ 1296  cd hw
+ 1297  ls
+ 1298  cd tasks
+ 1299  ls
+ 1300  cat bonus-tasks.txt
+ 1301  cd ..
+ 1302  cd Desktop/Alexandar
+ 1303  cc sleepingTreads.c
+ 1304  gcc -o sleepingTreads sleepingTreads.c -lpthread 
+ 1305  cd tr
+ 1306  gcc -o sleepingTreads sleepingTreads.c -lpthread 
+ 1307  ls
+ 1308  ./sleepingTreads
+ 1309  gcc -o sleepingTreads sleepingTreads.c -lpthread 
+ 1310  ./sleepingTreads
+ 1311  gcc -o sleepingTreads sleepingTreads.c -lpthread 
+ 1312  ./sleepingTreads
+ 1313  gcc -o sleepingTreads sleepingTreads.c -lpthread 
+ 1314  ./sleepingTreads
+ 1315  cd playground
+ 1316  cd starcamp_v8
+ 1317  ls
+ 1318  cd hw
+ 1319  cd tasks
+ 1320  ls
+ 1321  cat bonus-tasks.txt
+ 1322  cd..
+ 1323  cd ..
+ 1324  cd Desktop/Alexandar
+ 1325  ls
+ 1326  cc testPrep.c
+ 1327  ./a.out
+ 1328  cc testPrep.c
+ 1329  ./a.out
+ 1330  cc testPrep.c
+ 1331  ./a.out
+ 1332  cc testPrep.c
+ 1333  ./a.out
+ 1334  cd ..
+ 1335  cd playground
+ 1336  cd starcamp_v8
+ 1337  git pull
+ 1338  ls
+ 1339  cd lect
+ 1340  ls
+ 1341  cd 1212
+ 1342  ls
+ 1343  cat dispatch.c
+ 1344  cd ..
+ 1345  ls
+ 1346  cd tests
+ 1347  ls
+ 1348  cat README
+ 1349  cd 2
+ 1350  ls
+ 1351  cat RESULTS
+ 1352  cd ..
+ 1353  cd Desktop/Alexandar
+ 1354  ls
+ 1355  cc 2com.c
+ 1356  ./a.out
+ 1357  cc 2com.c
+ 1358  ./a.out
+ 1359  cc 2com.c
+ 1360  ./a.out
+ 1361  cc 2com.c
+ 1362  ./a.out
+ 1363  cd playground/starcamp_v8
+ 1364  ls
+ 1365  cd tests
+ 1366  ls
+ 1367  git pull
+ 1368  ls
+ 1369  cd final
+ 1370  ls
+ 1371  cat README
+ 1372  cd ..
+ 1373  cd Desktop/Alexandar
+ 1374  ls
+ 1375  cd finalTest
+ 1376  ls
+ 1377  cc task3.c
+ 1378  ./a.out
+ 1379  cc task3.c
+ 1380  ./a.out
+ 1381  cc task3.c
+ 1382  ./a.out
+ 1383  cc task3.c
+ 1384  ./a.out
+ 1385  cc task3.c
+ 1386  ./a.out
+ 1387  cc task3.c
+ 1388  ./a.out
+ 1389  cc task3.c
+ 1390  ./a.out
+ 1391  cc task3.c
+ 1392  ./a.out
+ 1393  cc task3.c
+ 1394  ./a.out
+ 1395  cc task3.c
+ 1396  ./a.out
+ 1397  cc task3.c
+ 1398  ./a.out
+ 1399  cc task3.c
+ 1400  ./a.out
+ 1401  cc task3.c
+ 1402  ./a.out
+ 1403  cc task3.c
+ 1404  ./a.out
+ 1405  cc task3.c
+ 1406  ./a.out
+ 1407  cc task3.c
+ 1408  ./a.out
+ 1409  cc task3.c
+ 1410  ./a.out
+ 1411  cc task3.c
+ 1412  ./a.out
+ 1413  cc task3.c
+ 1414  ./a.out
+ 1415  cc task3.c
+ 1416  ./a.out
+ 1417  cc task3.c
+ 1418  ./a.out
+ 1419  cc task3.c
+ 1420  ./a.out
+ 1421  cd..
+ 1422  ls
+ 1423  cd ..
+ 1424  cd sm
+ 1425  ls
+ 1426  make
+ 1427  cd ..
+ 1428  ls
+ 1429  cd finalTest
+ 1430  ls
+ 1431  cc task3.c
+ 1432  ./a.out
+ 1433  cc task3.c
+ 1434  ./a.out
+ 1435  cc task3.c
+ 1436  ./a.out
+ 1437  cc task3.c
+ 1438  ./a.out
+ 1439  cc task3.c
+ 1440  ./a.out
+ 1441  cc task3.c
+ 1442  ./a.out
+ 1443  cc task3.c
+ 1444  ./a.out
+ 1445  cc task3.c
+ 1446  ./a.out
+ 1447  cc task3.c
+ 1448  ./a.out
+ 1449  cc task3.c
+ 1450  ./a.out
+ 1451  cc task3.c
+ 1452  ./a.out
+ 1453  cc task3.c
+ 1454  ./a.out
+ 1455  cc task3.c
+ 1456  ./a.out
+ 1457  cc task3.c
+ 1458  ./a.out
+ 1459  cc task3.c
+ 1460  ./a.out
+ 1461  cc task3.c
+ 1462  ./a.out
+ 1463  cc task3.c
+ 1464  ./a.out
+ 1465  cc task3.c
+ 1466  ./a.out
+ 1467  cc task3.c
+ 1468  ./a.out
+ 1469  cc task3.c
+ 1470  ./a.out
+ 1471  cc task3.c
+ 1472  ./a.out
+ 1473  cd ..
+ 1474  cd playground/starcamp_v8
+ 1475  ls
+ 1476  cd tests
+ 1477  ls
+ 1478  cd final
+ 1479  ls
+ 1480  git pull
+ 1481  ls
+ 1482  cd viktor
+ 1483  ls
+ 1484  cat eratosthenes.c
+ 1485  cd..
+ 1486  cd ..
+ 1487  ls
+ 1488  cd final
+ 1489  mkdir alexandar
+ 1490  ls
+ 1491  cd alexandar
+ 1492  ls
+ 1493  cp
+ 1494  cp home/mms/Desktop/Alexandar/finalTest .
+ 1495  cp /home/mms/Desktop/Alexandar/finalTest .
+ 1496  cp -r /home/mms/Desktop/Alexandar/finalTest .
+ 1497  ls
+ 1498  cd finalTest
+ 1499  ls
+ 1500  git add
+ 1501  git add .
+ 1502  git push
+ 1503  git commit -m "AAAA"
+ 1504  GIT PUSH
+ 1505  git push
+ 1506  git status
+ 1507  git pull
+ 1508  git push
+ 1509  cd playground/starcamp_v8
+ 1510  ls
+ 1511  cd hw
+ 1512  ls
+ 1513  cd Alexandar
+ 1514  ls
+ 1515  mkdir week4
+ 1516  ls
+ 1517  cd week 4
+ 1518  cd week4
+ 1519  cp -r /home/mms/Desktop/Alexandar/hw4 .
+ 1520  ls
+ 1521  git add
+ 1522  git add .
+ 1523  git pull
+ 1524  git commit -m "aaa"
+ 1525  git pull
+ 1526  git push
+ 1527  git pull
+ 1528  git commit -m "aaa"
+ 1529  git pull
+ 1530  git push
+ 1531  cd ..
+ 1532  cd Desktop/Alexandar
+ 1533  ls
+ 1534  cd finalTest
+ 1535  ls
+ 1536  cc task3.c
+ 1537  cc -m  task3.c
+ 1538  cc  task3.c
+ 1539  ./a.out
+ 1540  cc  task3.c
+ 1541  ./a.out
+ 1542  cc  task3.c
+ 1543  ./a.out
+ 1544  cd Desktop/Alexandar
+ 1545  cc final.c
+ 1546  cd Desktop/Alexandar
+ 1547  cc final.c
+ 1548  ./a.out
+ 1549  cc final.c
+ 1550  ./a.out
+ 1551  cd Desktop/Alexandar
+ 1552  cc final.c
+ 1553  cd Desktop/Alexandar
+ 1554  cc final.c
+ 1555  ./a.out
+ 1556  cd Desktop/Alexandar
+ 1557  ls
+ 1558  cat TasksWeek1Part2.c
+ 1559  cd Desktop
+ 1560  cc prep.c
+ 1561  ./a.out
+ 1562  cd Desktop
+ 1563  cc prep.c
+ 1564  ./a.out
+ 1565  cd Desktop
+ 1566  cc prep.c
+ 1567  cd Desktop
+ 1568  ./a.out
+ 1569  cd Desktop
+ 1570  cc prep.c
+ 1571  cd Desktop
+ 1572  cc prep.c
+ 1573  ./a.out
+ 1574  cd Desktop
+ 1575  cc prep.c
+ 1576  ./a.out
+ 1577  cd Desktop
+ 1578  cc prep.c
+ 1579  ./a.out
+ 1580  cd Desktop
+ 1581  cc prep.c
+ 1582  ./a.out
+ 1583  cd Desktop
+ 1584  cc prep.c
+ 1585  ./a.out
+ 1586  cc prep.c
+ 1587  cd Desktop
+ 1588  cc prep.c
+ 1589  ./a.out
+ 1590  cd Desktop
+ 1591  cc prep.c
+ 1592  ./a.out
+ 1593  cd Desktop
+ 1594  cc prep.c
+ 1595  ./a.out
+ 1596  cd Desktop
+ 1597  cc prep.c
+ 1598  ./a.out
+ 1599  cd Desktop
+ 1600  cc prep.c
+ 1601  ./a.out
+ 1602  cd Desktop
+ 1603  cc prep.c
+ 1604  ./a.out
+ 1605  sudo shutdown now
+ 1606  ping dir.bg
+ 1607  sudo poweroff 
+ 1608  ping dir.bg
+ 1609  sudo poweroff 
+ 1610  sudo apt install putty
+ 1611  putty
+ 1612  ls /dev/ttyUSB
+ 1613  ls /dev/ttyUSB*
+ 1614  sudo ls /dev/ttyUSB
+ 1615  ls /dev/ttyUSB*
+ 1616  ll /dev/ttyUSB*
+ 1617  ll /dev/
+ 1618  la /dev/tty
+ 1619  la /dev/tty*
+ 1620  la /dev/ttyU*
+ 1621  ls /dev/ttyUSB0
+ 1622  putty
+ 1623  ls /dev/ttyUSB0
+ 1624  putty
+ 1625  sudo putty
+ 1626  firefox
+ 1627  vi A
+ 1628  sudo apt install vim
+ 1629  vim a
+ 1630  cd Desktop/
+ 1631  vim prep.c
+ 1632  find / -in prep.c  
+ 1633  find / -iname prep.c  
+ 1634  sudo find / -iname prep.c  
+ 1635  sudo find / -iname PReP  
+ 1636  sudo apt install htop
+ 1637  htop
+ 1638  sudo apt iunstall baobab
+ 1639  sudo apt install baobab
+ 1640  baobab
+ 1641  ip a
+ 1642  whoami
+ 1643  pwd
+ 1644  ls
+ 1645  clear
+ 1646  ls
+ 1647  cal
+ 1648  sudo cal
+ 1649  cal _-3
+ 1650  cal -3
+ 1651  pwd
+ 1652  mkdir Radostin
+ 1653  ls
+ 1654  cd Radostin
+ 1655  ls
+ 1656  pwd
+ 1657  ..
+ 1658  pwd
+ 1659  .
+ 1660  pwd
+ 1661  cd ..
+ 1662  pwd
+ 1663  cd Stefany
+ 1664  ls
+ 1665  cd ..
+ 1666  pwd
+ 1667  cd Radostin
+ 1668  cd .
+ 1669  pwd
+ 1670  cd home
+ 1671  cd ..
+ 1672  cd .
+ 1673  cd Radostin
+ 1674  cd home/mms/Radostin
+ 1675  cd .
+ 1676  mkdir Day01
+ 1677  cd Day01
+ 1678  nano
+ 1679  ls
+ 1680  nano hello.c
+ 1681  ls
+ 1682  cd ..
+ 1683  ls
+ 1684  pwd
+ 1685  ls
+ 1686  cd Day01
+ 1687  ls
+ 1688  cat hello.c
+ 1689  hello.c
+ 1690  run hello.c
+ 1691  ls
+ 1692  nano hello.c
+ 1693  run hello.c gcc
+ 1694  gcc hello.c
+ 1695  ls
+ 1696  a.out
+ 1697  gcc a.out
+ 1698  ls
+ 1699  gcc hello.c
+ 1700  ls
+ 1701  ./a.out
+ 1702  nano hello.c
+ 1703  gcc hello.c
+ 1704  ./a.out
+ 1705  nano hello.c
+ 1706  gcc hello.c
+ 1707  ./a.out
+ 1708  gcc hello.c -o hello
+ 1709  ./hello
+ 1710  ld
+ 1711  ls
+ 1712  pwd
+ 1713  ls
+ 1714  ./ a.out
+ 1715  ./hello
+ 1716  gcc hello.c 
+ 1717  ./a.out
+ 1718  mkdir --help
+ 1719  gcc --help
+ 1720  man mkdir
+ 1721  man man
+ 1722  man 1 mkdir
+ 1723  man man
+ 1724  man 1 mkdir
+ 1725  man 2 mkdir
+ 1726  man printf
+ 1727  man 1 printf
+ 1728  man 3 printf
+ 1729  man gcc
+ 1730  histyr
+ 1731  history
+ 1732  2074 history
+ 1733  ls
+ 1734  cd ..
+ 1735  pwd
+ 1736  hhistory
+ 1737  cal hhistory
+ 1738  history
+ 1739  cal history
+ 1740  pwd
+ 1741  cd downloads
+ 1742  cd ./Downloads
+ 1743  ls
+ 1744  sudo apt install ./code_1.69.0-1657183742_amd64.deb
+ 1745  sudo apt install ./ code_1.69.0-1657183742_amd64.deb
+ 1746  pwd
+ 1747  cd
+ 1748  cd ..
+ 1749  cd Downloads
+ 1750  cd ./Downloads
+ 1751  .
+ 1752  cd ..
+ 1753  cd home/Downloads
+ 1754  cd ./home./Downloads
+ 1755  pwd
+ 1756  home
+ 1757  cd home
+ 1758  ls
+ 1759  cd mms
+ 1760  ls
+ 1761  cd Downloads
+ 1762  ls
+ 1763  sudo apt install ./code_1.69.0-1657183742_amd64.deb
+ 1764  ls
+ 1765  pwd
+ 1766  ./Radostin
+ 1767  cd ./Radostin
+ 1768  cd ./Day01
+ 1769  ls
+ 1770  mv  #include <stdio.h>.c sum.c
+ 1771  mv --help
+ 1772  cd ./Radostin
+ 1773  ls
+ 1774  cd ./Day01
+ 1775  l
+ 1776  pwd
+ 1777  cd Radostin
+ 1778  cd day01
+ 1779  cd Day01
+ 1780  ls
+ 1781  gcc #include <stdio.h>.c
+ 1782  gcc hello.c -o asd
+ 1783  asd
+ 1784  ./asd
+ 1785  ls
+ 1786  gcc #include <stdio.h>.c -o asdads
+ 1787  pwd
+ 1788  ls
+ 1789  gcc /.sum.c
+ 1790  gcc ./sum.c
+ 1791  gcc ./hello.c
+ 1792  a.out
+ 1793  ./a.out
+ 1794  gcc ./hello.c -o adsasd
+ 1795  ./asdasd
+ 1796  pwd
+ 1797  cd ./Radostin/Day01
+ 1798  ls
+ 1799  cd ./Radostin/Day01
+ 1800  gcc sum.c
+ 1801  ./a.out
+ 1802  cd ./Radostin/Day01
+ 1803  ls
+ 1804  gcc  sum.c -o pp
+ 1805  ./pp
+ 1806  cd ./Radostin./Day01
+ 1807  pwd
+ 1808  cd Radostin/Day01
+ 1809  ls
+ 1810  gcc sum.c
+ 1811  ./a.out >> asd.txt
+ 1812  ls
+ 1813  asd.txt
+ 1814  ./asd.txt
+ 1815  sudo ./asd.txt
+ 1816  ls
+ 1817  gcc sum.c ppp
+ 1818  ./ppp
+ 1819  1
+ 1820  2
+ 1821  ls
+ 1822  gcc ./sum.c
+ 1823  ./a.out
+ 1824  cd ./Radostin/Day01
+ 1825  lls
+ 1826  ls
+ 1827  gcc ./sum.c pes
+ 1828  gcc ./sum.c -o pes
+ 1829  gcc ./sum.c -o pes1
+ 1830  ./pes<file1|./pes1>result2
+ 1831  ./result2
+ 1832  sudo ./result2
+ 1833  gcc sum.c -o sum
+ 1834  ./sum
+ 1835  ./sum >> file1
+ 1836  ls
+ 1837  ./sum
+ 1838  gcc ./sum.c
+ 1839  gcc sum.c
+ 1840  gcc ./sum.c
+ 1841  ./a.out
+ 1842  gcc ./sum.c
+ 1843  ./a.out
+ 1844  gcc ./sum.c
+ 1845  ./a.out
+ 1846  gcc ./sum.c -o pp
+ 1847  ./pp
+ 1848  cd ./Radostin/Day01
+ 1849  cat hello.c
+ 1850  cat hello.c | head -n 5
+ 1851  cat hello.c | head -n 5 | tail -n 2
+ 1852  cat hello.c | head -n  15 | tail -n 5
+ 1853  cat hello.c
+ 1854  cat hello.c | head -n  10 | tail -n 5 >> Log
+ 1855  cat Log
+ 1856  cat hello.c | head -n  10 | tail -n 5 >> Log
+ 1857  cat Log
+ 1858  cat hello.c | head -n  10 | tail -n 5 >> Log1
+ 1859  cat Log1
+ 1860  cat hello.c | head -n  10 | tail -n 5 > Log1
+ 1861  cat Log1
+ 1862  cat nums
+ 1863  cat nums |sort -n
+ 1864  cat nums |sort
+ 1865  cat nums |sort -n
+ 1866  cat nums |sort -n | uniq
+ 1867  cat nums |sort -n | tail -n 1
+ 1868  cat nums |sort -n | tail -n 1 > /dev/null
+ 1869  cat nums |sort -n | tail -n 1
+ 1870  cal
+ 1871  ls
+ 1872  gcc ./sqrt
+ 1873  gcc ./sqrt.c
+ 1874  gcc ./sqrt.c -o sq -lm
+ 1875  ./sq
+ 1876  gcc ./sqrt.c -o sq -lm
+ 1877  ./sq
+ 1878  gcc ./sqrt.c -o sq -lm
+ 1879  ./sq
+ 1880  gcc ./sqrt.c -o sq -lm
+ 1881  ./sq
+ 1882  ./pes<asd.txt|./pes1>result2
+ 1883  cd ./Radostin/Day01
+ 1884  gcc ./sum.c -o pes
+ 1885  ls
+ 1886  gcc ./oddeven.c -o pes1
+ 1887  ./pes<asd.txt|./pes1>result2
+ 1888  sudo ./result2
+ 1889  ls
+ 1890  pwd
+ 1891  cd Radostin
+ 1892  pwd
+ 1893  ls
+ 1894  mkdir Day05
+ 1895  ls
+ 1896  mkdir dir1 dir2
+ 1897  ls dir1
+ 1898  touch file.c file2.c
+ 1899  ls
+ 1900  cd ..
+ 1901  ls
+ 1902  cd Radostin
+ 1903  ls
+ 1904  rm -rf dir1 dir2 file.c file2.c
+ 1905  ls
+ 1906  cd Day05
+ 1907  mkdir dir1 dir2
+ 1908  cd dir1
+ 1909  touch file1.c file2.c
+ 1910  ls
+ 1911  cd ..
+ 1912  ls
+ 1913  cd dir2
+ 1914  mkdir programs
+ 1915  pwd
+ 1916  cd ..
+ 1917  ls
+ 1918  cd dir1
+ 1919  cp file1.c programs
+ 1920  ls
+ 1921  rm -rf programs
+ 1922  cd file.c ~/Radostin/Day05/dir2/programs
+ 1923  cd file1.c ~/Radostin/Day05/dir2/programs
+ 1924  ls
+ 1925  cd ..
+ 1926  ls
+ 1927  cd dir2
+ 1928  ls
+ 1929  cd programs
+ 1930  ls
+ 1931  ls -a
+ 1932  ls
+ 1933  cd ..
+ 1934  cd dir1
+ 1935  cd ..
+ 1936  cd dir1
+ 1937  ls
+ 1938  cp file1.c ~/Radostin/Day05/dir2/programs
+ 1939  ls
+ 1940  cd d..
+ 1941  cd ..
+ 1942  cd dir2
+ 1943  cd programs
+ 1944  ls
+ 1945  cd ../dir1
+ 1946  cd ..
+ 1947  cd ../dir1
+ 1948  pwd
+ 1949  ls
+ 1950  cp file2.c ../dir2/;programs
+ 1951  cp file2.c ../dir2/programs
+ 1952  cd ..
+ 1953  ;s
+ 1954  ls
+ 1955  cd dir2/programs
+ 1956  ls
+ 1957  rm -rf file2.c
+ 1958  cd ..
+ 1959  cd ../dir1
+ 1960  ls
+ 1961  mv file2.c ../dir2/programs
+ 1962  cd ..
+ 1963  cd ./dir2/programs
+ 1964  ls
+ 1965  cd ..
+ 1966  cd di1
+ 1967  ls
+ 1968  cd dir1
+ 1969  ls
+ 1970  cd ..
+ 1971  touch file3.c file4.c file5.c file1.h file2.h
+ 1972  ls
+ 1973  rm *.c
+ 1974  ls
+ 1975  touch file{1..9}.c
+ 1976  ls
+ 1977  find . -name file2.c
+ 1978  find . -name file.c
+ 1979  find . -name file
+ 1980  find . -name file*
+ 1981  find . -name file*.*
+ 1982  find . -name "file*"
+ 1983  find . -name "*.c"
+ 1984  ls
+ 1985  tldr
+ 1986  sudo apt install devtodo
+ 1987  tldr
+ 1988  pwd
+ 1989  touch allccode.c
+ 1990  pwd
+ 1991  cd ..
+ 1992  pwd
+ 1993  .s
+ 1994  ls
+ 1995  pwd
+ 1996  cd ./Radostin
+ 1997  ls
+ 1998  man find
+ 1999  find -name "*.c"
+ 2000  find -exec -help
+ 2001  find -name "*.c" | ./Day05/allccode.c
+ 2002  sudo find -name "*.c" | ./Day05/allccode.c
+ 2003  find allccode.c | cat
+ 2004  find allccode
+ 2005  find -name allccode.c
+ 2006  cd ./Day05
+ 2007  cat allccode.c
+ 2008  cd ..
+ 2009  find -name "*.c" -print > ./Day05/allccode.c
+ 2010  cd ./Day05
+ 2011  cat allccode.c
+ 2012  cat  < find -name "*.c"
+ 2013  find -name "*.c" -exec > cat
+ 2014  find -name "*.c" -exec
+ 2015  find -name "*.c" -exec cat {}
+ 2016  find -name "*.c" -exec cat {}/;
+ 2017  find -name "*.c" | exec -I {} cat {}
+ 2018  find -name "*.c" -exec
+ 2019  cd ..
+ 2020  find -name "*.c" -exec
+ 2021  find -name "*.c"
+ 2022  cat ./Day05/allccode.c
+ 2023  rm -rf ./Day05/allccode.c
+ 2024  cat ./Day05/allccode.c
+ 2025  touc ./Day05/allccode.c
+ 2026  touch ./Day05/allccode.c
+ 2027  cat ./Day05/allccode.c
+ 2028  find -name "*.c"
+ 2029  cat ./Day01/sqrt.c
+ 2030  cat ./Day01/sqrt.c > test
+ 2031  cat test
+ 2032  find -name "*.c"
+ 2033  find -name "*.c" > cat
+ 2034  find -name "*.c" | cat
+ 2035  find -name "*.c" | cat > test
+ 2036  cat test
+ 2037  find -name "*.c" | cat > test2
+ 2038  cat test2
+ 2039  find . -type.f -name "*.c" -exec cat {} \;
+ 2040  find . -type f -name "*.c" -exec cat {} \;
+ 2041  find . -type f -name "*.c" -exec cat {} \; > ./Day05/allccode.c
+ 2042  rm -rf ./Day05/allccode.c
+ 2043  find . -type f -name "*.c" -exec cat {} \; > ./Day05/allccode.c
+ 2044  rm -rf ./Day05/allccode.c
+ 2045  find allccode.c
+ 2046  find . -type f -name "*.c" -exec cat {} \; > ./Day05/allccode.c
+ 2047  find . -type f -name "*.c" -exec cat {} \; > ./Day05/allccode
+ 2048  cat ./Day05/allccode
+ 2049  find . -type f -name "*.c" | xargs -I {} cat {}
+ 2050  find . -type f -name "*.c" | xargs -I {} cat {} |wc -l 
+ 2051  find . -type f -name "*.c" | xargs -I {} cat {} |wc -l > rowsofcode
+ 2052  cat rowsofcode
+ 2053  find . -type f -name "*.c" |wc -l
+ 2054  find . -type f -name "*.c" |wc -l > numberofcfiles
+ 2055  cat numberofcfiles
+ 2056  history
+ 2057  history > history1

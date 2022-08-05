@@ -1,0 +1,11 @@
+touch Makefile
+// static library
+gcc -c comparators.c -o comparators.o
+ar -rcs libcomplib.a comparators.o
+gcc main.c -o program -L . -l complib
+
+//shared library
+gcc -c -fPIC comparators.c -o dcomparators.o
+gcc -shared -o libdcomplib.so dcomparators.o
+main.c -o program -L. -l dcomplib
+export LD_LIBRARY_PATH =`pwd`

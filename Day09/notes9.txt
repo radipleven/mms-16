@@ -1,0 +1,63 @@
+﻿Arduino
+uno, mega, micro, nano 
+TAR 
+tar –version
+man tar
+touch file{00..09}.c  file{10..20}.h
+ls
+tar -cvf myarchive.tar file*
+ls
+rm file*
+tar -xvf myarchive.tar
+file myarchive.tar
+tar -cvzf myarchive.tar.gz file*
+file myarchive.tar.gz
+rm file*
+tar -xvf myarchive.tar.gz
+tar -tvf myarchive.tar
+tar -rvf myarchive.tar main.c
+
+String → char array-> array of chars
+char sym;
+
+Structures
+
+Struct Point {
+doubles;
+double y;
+};
+
+examples of Packing & Padding
+
+strict str_1{
+double a;
+double b;
+}
+
+in memory:
+  8    4   4   
+|  a  | b |    |  → sizeof = 16
+
+struct str_2 {
+int a;
+double b;
+}
+  4  4      8
+|    |    |        | → sizeof = 16 again, but no padding at the end
+
+
+
+Bitfields are defined in within a given structure (1 byte = 24 bits)
+Struct {
+uint8_t u: 3; → variable with only 3 bits
+uint8_t g: 3; → varibale with only 3 bits
+uint8_t o: 3;
+} → size of the whole structure is 16 bits (2 bytes)
+We cannot define 1bit 2 bit or 3 bit variables. Becase the processor reads byte by byte not bit by bit. Bitfelds allow to use only certain bits of a variable.Bitfield can only be made with whole number variables. (int long char)
+
+Union
+union id{
+double a;
+int b;
+}
+Difference between union and structure is that in unions, variables are placed one on top of another. They use the same memory. Size of a union the same as the size of the largest variable in it.
