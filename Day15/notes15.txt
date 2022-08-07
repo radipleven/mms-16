@@ -1,0 +1,25 @@
+﻿Git commit
+git add
+git push orgin master
+git checkout
+git remote 
+git remote -v
+A branch is just a part of a github repo.
+
+	
+When people want to develop a new feautre they do not work on the master branch. They ususally create their own and work there.		
+
+
+	
+
+
+
+
+
+
+
+gitk –all
+git checkout -b  → creates a branch
+
+
+
