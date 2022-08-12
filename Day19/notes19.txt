@@ -1,0 +1,10 @@
+﻿Signals
+
+kill -l → all the signals
+kill lets us send a signal to a given process
+syntax → kill [signal] pid1 pid2 …
+jobs → one job includes all the processes of a program
+fg %1
+bg %1 
+foreground and background movement
+

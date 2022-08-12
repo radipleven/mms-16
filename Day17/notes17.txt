@@ -1,0 +1,5 @@
+﻿Dynamic array with malloc, calloc
+resizing dynamic array to add elements with realloc
+dynamic matrix with ptr** and deleting the matrix with for loop
+jagged dynamic matrix where each row has a different length with malloc(rowLength* sizeof(int))
+
