@@ -13,7 +13,6 @@ int sum( int* arr, int n)
 }
 void arrayEvaluate(int* arr, size_t n, int(*f)(int*, int))
 {
-   
     printf("Value: %d\n", f(arr,n));
 }
 int main()

@@ -9,6 +9,15 @@ unsigned long factorial (unsigned long n)
     }
     return res;
 }
+
+unsigned long pow(int a, int b)
+{
+	for (int i=0; i<b; i++)
+	{
+		a = a*a;
+	}
+	
+}
 double sin (double x)
 {
     double res=0;
@@ -20,7 +29,7 @@ double sin (double x)
         {
             counter++;
             double num = pow (x,i);
-            double denom = fact (i);
+            double denom = factorial(i);
             double fract = num/denom;
             if (j%2!=0)
             {
